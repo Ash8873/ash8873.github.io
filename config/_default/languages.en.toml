@@ -6,7 +6,7 @@ weight = 1
 rtl = false
 
 title = "Homepage"
-logo = "img/logo.png"
+logo = "img/test.png"
 description = "Jiao Ying Art School"
 copyright = "\u00A9 Jiao Ying Art School"
 
@@ -14,11 +14,11 @@ dateFormat = "2 January 2006"
 
 [author]
    name = "Jiao Ying Art School"
-   image = "img/blowfish_logo.png"
-   headline = "ART SHOW..."
+   image = "img/test.png"
+   headline = "Welcome to the Jiao Ying Art School Website"
    bio = "we are an art school...."
-   links = [
-     { email = "mailto:johndoe@gmail.com" }
+   #links = [
+     #{ email = "mailto:johndoe@gmail.com" }
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -60,4 +60,4 @@ dateFormat = "2 January 2006"
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
-   ]
+   #]

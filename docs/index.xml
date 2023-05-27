@@ -2,18 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage</title>
-    <link>/</link>
+    <link>https://portlandartandlife.org/</link>
     <description>Recent content on Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© Jiao Ying Art School</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Jiao Ying Art School</copyright><atom:link href="https://portlandartandlife.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Homepage</title>
-      <link>/</link>
+      <title></title>
+      <link>https://portlandartandlife.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/</guid>
-      <description>JiaoYing Art School - Art Shows # Welcome to the website for JiaoYing Art School.</description>
+      <guid>https://portlandartandlife.org/about/</guid>
+      <description>Jiao Ying Art School Art Show Team Leaders: Yuankai Gao</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://portlandartandlife.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://portlandartandlife.org/contact/</guid>
+      <description>johndoe@gmail.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://portlandartandlife.org/posts/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://portlandartandlife.org/posts/test/</guid>
+      <description> this is is a test post </description>
       
     </item>
     

@@ -16,9 +16,20 @@
 #  pageRef = "index.md"
 #  weight = 10
 
+#[[main]]
+#  name = "Posts"
+#  pageRef = "posts"
+#  weight = 10
+
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
+  name = "About"
+  pageRef = "about"
+  weight = 10
+
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
   weight = 10
 
 #[[main]]

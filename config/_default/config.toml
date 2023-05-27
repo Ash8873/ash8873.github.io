@@ -17,13 +17,13 @@ buildFuture = false
 
 # googleAnalytics = "G-XXXXXXXXX"
 
-[imaging]
-  anchor = 'Center'
-
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  author = "authors"
+#[imaging]
+#  anchor = 'Center'
+#
+#[taxonomies]
+#  tag = "tags"
+#  category = "categories"
+#  author = "authors"
   series = "series"
 
 [sitemap]

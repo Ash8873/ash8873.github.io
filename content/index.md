@@ -1,6 +1,9 @@
 ---
-title: "Hello"
-date: 2023-04-27T08:45:40-07:00
-draft: false
+title: "Homepage"
+description: "Homepage"
 ---
-# Hello World
+# JiaoYing Art School - Art Shows
+
+Welcome to the website for JiaoYing Art School. 
+
+We are a group of students passionate about art...

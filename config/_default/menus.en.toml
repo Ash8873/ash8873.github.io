@@ -11,10 +11,10 @@
 # ordered by weight from lowest to highest.
 
 
-[[main]]
-  name = "Home"
-  pageRef = "index.md"
-  weight = 10
+#[[main]]
+#  name = "Home"
+#  pageRef = "index.md"
+#  weight = 10
 
 [[main]]
   name = "Blog"

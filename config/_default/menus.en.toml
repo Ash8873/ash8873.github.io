@@ -21,16 +21,28 @@
 #  pageRef = "posts"
 #  weight = 10
 
+
 [[main]]
-  name = "About"
+  name = "About   "
   pageRef = "about"
-  weight = 10
+  weight = 5
 
 
 [[main]]
-  name = "Contact"
-  pageRef = "contact"
+  name = "   Showcase   "
+  pageRef = "showcase"
+  weight = 7
+
+[[main]]
+  name = "   The Team"
+  pageRef = "team"
   weight = 10
+
+
+#[[main]]
+#  name = "Contact"
+#  pageRef = "contact"
+#  weight = 20
 
 #[[main]]
 #  name = "Parent"

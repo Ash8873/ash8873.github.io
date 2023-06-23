@@ -12,14 +12,23 @@
   
     
       <url>
-            <loc>https://portlandartandlife.org/contact/</loc>
-            <priority>0</priority>
+            <loc>https://portlandartandlife.org/posts/test/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
           </url>
     
   
     
       <url>
-            <loc>https://portlandartandlife.org/posts/test/</loc>
+            <loc>https://portlandartandlife.org/showcase/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://portlandartandlife.org/team/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
